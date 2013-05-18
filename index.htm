@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">		
+		<title>Texas Chainsaw 3D (2013)</title>		
+		<link href="css/style.css" media="all" rel="stylesheet" type="text/css"/>	
+		<script src="js/d3.js"></script>
+		<script src="js/jquery-1.9.1.min.js"></script>
+		<script src="js/longscroll.js"></script>
+		<script src="js/wordtree.js"></script>
+		<script src="js/unicode.js"></script>
+		<script src="js/Snowball.min.js"></script>
+	</head>
+	<body>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$('#goslide1').click(function() {
+					$('#slide1').removeClass('hidden');
+					$('#slide2').addClass('hidden');
+				});
+				
+				$('#goslide2').click(function() {
+					$('#slide1').addClass('hidden');
+					$('#slide2').removeClass('hidden');
+				});
+				
+			});
+		</script>
+		<a id="goslide1" href="#">Slide 1</a>
+		<a id="goslide2" href="#">Slide 2</a>		
+		
+		<!-- Tweet line chart and actor treemap -->
+		<div id="slide1">
+			<h1>Texas Chainsaw 3D</h1>		
+			<p>Some introduction here..</p>
+			<div id="posnegtweetvis">
+				Tweet line chart here along with some description..
+			</div>
+			<div id="actortreemapvis">
+				Actor treemap here along with some description and totals..
+			</div>
+		</div>
+		
+		<!-- Word Tree -->
+		<div id="slide2" class="hidden">
+			<div id="header">
+				<div class="wrapper">
+					<h1 id="logo"><a href="http://www.jasondavies.com/wordtree/">Word Tree</a></h1>
+
+					<form style="display: none;" id="form-source">
+						<input value="flickr-comments.txt" id="source" placeholder="URL or Twitter @handle…" type="text">
+					</form>
+
+					<form style="display: inline-block;" id="form">
+						<input value="Thank you" id="keyword" placeholder="Keyword…" type="text">
+						<label for="reverse" style="font-size: small"><input id="reverse" type="checkbox"> reverse tree</label>
+						<label for="phrase-line" style="font-size: small"><input id="phrase-line" type="checkbox"> one phrase per line</label>
+					</form>
+				</div>
+			</div>
+			<div id="help-left">
+				Shift-click to make that word the root.
+			</div>
+
+			<div id="vis"></div>
+			<div id="text"></div>
+			<div id="heat"></div>
+
+			<div class="clear"></div>
+
+			<div id="help-window">
+
+				<div class="help-wrapper grey">
+					<div class="wrapper">
+					  <h2>Paste Text</h2>
+					  <p><textarea id="paste"></textarea></p><p><button id="paste-go" class="first last">Generate WordTree!</button></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	<script src="js/app_wordtree.js"></script>
+	</body>	
+</html>
