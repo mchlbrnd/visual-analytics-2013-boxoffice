@@ -264,3 +264,48 @@ h2 {
     width: 0px;
     height: 0px;
 }
+
+rect {
+	pointer-events: all;
+	cursor: pointer;
+}
+
+.chart {
+	display: block;
+	margin: auto;
+	margin-top: 40px;
+}
+
+.parent .label {
+	color: #FFFFFF;
+	padding-left: 2px;
+	padding-top: 2px;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+	-webkit-text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+	-moz-text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+.labelbody {
+	background: transparent;
+}
+
+.label {
+	padding: 2px;
+	white-space: pre;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+	-webkit-text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+	-moz-text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+.child .label {
+	white-space: pre-wrap;
+	text-align: center;
+	text-overflow: ellipsis;
+}
+
+.cell {
+	font-size: 11px;
+	cursor: pointer
+}
