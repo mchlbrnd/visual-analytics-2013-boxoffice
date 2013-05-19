@@ -25,9 +25,10 @@ var chart = d3.select("#actortreemapvis")
 		.attr("width", chartWidth)
 		.attr("height", chartHeight)
 		.append("svg:g");
-
+	
 d3.json("data/imdb/Texas Chainsaw 3D (2013).json", function(data) {
 	node = root = data;
+	
 	var nodes = treemap.nodes(root);
 
 	var children = nodes.filter(function(d) {
@@ -36,6 +37,19 @@ d3.json("data/imdb/Texas Chainsaw 3D (2013).json", function(data) {
 	var parents = nodes.filter(function(d) {
 		return d.children;
 	});
+	
+	d3.select("#actortreemapvis")
+		.append("p")
+		.text(function(d) {
+			total_openingweekend = total_movies = total_rating = 0;
+			children.forEach(function(c) {
+				total_rating += c.rating;
+				total_movies += 1;
+				total_openingweekend += c.ow_recode;
+			});
+			return "Number of movies {0}, total opening weekend weigthed by position in credits ${1}, mean rating {2}"
+				.format(total_movies, total_openingweekend, total_rating/total_movies);
+		});
 
 	// create parent cells
 	var parentCells = chart.selectAll("g.cell.parent")
@@ -81,9 +95,6 @@ d3.json("data/imdb/Texas Chainsaw 3D (2013).json", function(data) {
 			.attr("style", function(d) {
 				return "width:" + Math.max(0.01, (d.dx - 1)) + "px;" +
 					   "height:" + headerHeight + "px;";
-			})
-			.text(function(d) {
-				return d.name;
 			});
 	// remove transition
 	parentCells.exit()
@@ -98,6 +109,9 @@ d3.json("data/imdb/Texas Chainsaw 3D (2013).json", function(data) {
 	var childEnterTransition = childrenCells.enter()
 			.append("g")
 			.attr("class", "cell child")
+			.text(function(d) { 
+				return d.name + "$" + d.ow_recode + "(" + d.rating + ")"; 
+			})
 			.on("click", function(d) {
 				zoom(node === d.parent ? root : d.parent);
 			});
@@ -120,7 +134,7 @@ d3.json("data/imdb/Texas Chainsaw 3D (2013).json", function(data) {
 			.append("div")
 			.attr("class", "label")
 			.text(function(d) {
-				return d.name;
+				(d.children) ? d.name : d.name + "$" + d.ow_recode + "(" + d.rating + ")";
 			});
 	// update transition
 	var childUpdateTransition = childrenCells.transition().duration(transitionDuration);
@@ -151,33 +165,30 @@ d3.json("data/imdb/Texas Chainsaw 3D (2013).json", function(data) {
 					   "height:" + (d.dy - 1) + "px;";
 			})
 			.text(function(d) {
-				return d.name;
+				(d.children) ? d.name : d.name + "$" + d.ow_recode + "(" + d.rating + ")";
 			});
 	// exit transition
 	childrenCells.exit()
 			.remove();
-
-	d3.select("select").on("change", function() {
-		console.log("select zoom(node)");
-		treemap.value(this.value == "size" ? size : count)
-				.nodes(root);
-		zoom(node);
-	});
-
 	zoom(node);
 });
-
-
 
 function size(d) {
 	return d.size;
 }
 
-
 function count(d) {
 	return 1;
 }
 
+String.prototype.format = function() {
+    var formatted = this;
+    for (var i = 0; i < arguments.length; i++) {
+        var regexp = new RegExp('\\{'+i+'\\}', 'gi');
+        formatted = formatted.replace(regexp, arguments[i]);
+    }
+    return formatted;
+};
 
 //and another one
 function textHeight(d) {
@@ -204,7 +215,6 @@ function idealTextColor (bgColor) {
 	var bgDelta = (components.R * 0.299) + (components.G * 0.587) + (components.B * 0.114);
 	return ((255 - bgDelta) < nThreshold) ? "#000000" : "#ffffff";
 }
-
 
 function zoom(d) {
 	this.treemap
@@ -259,7 +269,7 @@ function zoom(d) {
 					   "height:" + (d.children ? headerHeight + "px": ky * d.dy - 1 + "px;");
 			})
 			.text(function(d) {
-				return d.name;
+				return (d.children) ? d.name : d.name + "\n$" + d.ow_recode + "\n(" + d.rating + ")";
 			});
 
 	// update the width/height of the rects
