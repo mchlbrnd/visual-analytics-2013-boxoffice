@@ -309,3 +309,15 @@ rect {
 	font-size: 11px;
 	cursor: pointer
 }
+
+/* positive / negative tweet chart */
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.area {
+  fill: steelblue;
+}

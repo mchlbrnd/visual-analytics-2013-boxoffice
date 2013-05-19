@@ -1,0 +1,3537 @@
+[
+    {
+        "hour": "2013-01-03 16h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 7,
+        "pos_terms": [
+            "cinema",
+            "tomorrow",
+            "tonight"
+        ]
+    },
+    {
+        "hour": "2013-01-03 15h",
+        "neg_count": 10,
+        "neg_terms": [
+            "bad",
+            "lol",
+            "look",
+            "looks",
+            "shit",
+            "wait"
+        ],
+        "pos_count": 38,
+        "pos_terms": [
+            "awesome",
+            "cinemas",
+            "film",
+            "films",
+            "finally",
+            "fuck",
+            "fucking",
+            "seen",
+            "time",
+            "times",
+            "tomorrow",
+            "tonight",
+            "understand",
+            "video",
+            "win",
+            "won"
+        ]
+    },
+    {
+        "hour": "2013-01-03 14h",
+        "neg_count": 4,
+        "neg_terms": [
+            "bout",
+            "shit",
+            "sucks",
+            "wait"
+        ],
+        "pos_count": 27,
+        "pos_terms": [
+            "best",
+            "film",
+            "fucking",
+            "time",
+            "today",
+            "tomorrow",
+            "tonight",
+            "video",
+            "win"
+        ]
+    },
+    {
+        "hour": "2013-01-03 13h",
+        "neg_count": 8,
+        "neg_terms": [
+            "bout",
+            "looks",
+            "wait"
+        ],
+        "pos_count": 8,
+        "pos_terms": [
+            "dancing",
+            "fucking",
+            "perfectly",
+            "tomorrow",
+            "tonight",
+            "win"
+        ]
+    },
+    {
+        "hour": "2013-01-03 12h",
+        "neg_count": 9,
+        "neg_terms": [
+            "family",
+            "problem",
+            "shits",
+            "wait"
+        ],
+        "pos_count": 19,
+        "pos_terms": [
+            "cinema",
+            "cinemas",
+            "dancing",
+            "fucking",
+            "saw",
+            "tomorrow",
+            "tonight",
+            "win",
+            "year"
+        ]
+    },
+    {
+        "hour": "2013-01-03 11h",
+        "neg_count": 6,
+        "neg_terms": [
+            "looks",
+            "people",
+            "shit",
+            "wait",
+            "white"
+        ],
+        "pos_count": 29,
+        "pos_terms": [
+            "cinema",
+            "cinemas",
+            "dancing",
+            "saw",
+            "tomorrow",
+            "win"
+        ]
+    },
+    {
+        "hour": "2013-01-03 10h",
+        "neg_count": 2,
+        "neg_terms": [
+            "songs",
+            "wait"
+        ],
+        "pos_count": 8,
+        "pos_terms": [
+            "dancing",
+            "film",
+            "saw",
+            "tomorrow",
+            "win",
+            "year",
+            "years"
+        ]
+    },
+    {
+        "hour": "2013-01-03 09h",
+        "neg_count": 2,
+        "neg_terms": [
+            "looks",
+            "wait"
+        ],
+        "pos_count": 9,
+        "pos_terms": [
+            "beautiful",
+            "film",
+            "today",
+            "tomorrow"
+        ]
+    },
+    {
+        "hour": "2013-01-03 08h",
+        "neg_count": 9,
+        "neg_terms": [
+            "bad",
+            "bout",
+            "hate",
+            "lol",
+            "looking",
+            "looks",
+            "wait"
+        ],
+        "pos_count": 27,
+        "pos_terms": [
+            "cinema",
+            "dancing",
+            "fuck",
+            "idea",
+            "today",
+            "tomorrow"
+        ]
+    },
+    {
+        "hour": "2013-01-03 07h",
+        "neg_count": 4,
+        "neg_terms": [
+            "lol",
+            "wait"
+        ],
+        "pos_count": 22,
+        "pos_terms": [
+            "black",
+            "director",
+            "film",
+            "tomorrow",
+            "win"
+        ]
+    },
+    {
+        "hour": "2013-01-03 06h",
+        "neg_count": 13,
+        "neg_terms": [
+            "bad",
+            "hate",
+            "lol",
+            "people",
+            "shit",
+            "smh",
+            "wait"
+        ],
+        "pos_count": 17,
+        "pos_terms": [
+            "fucking",
+            "saw",
+            "sleeping",
+            "tomorrow",
+            "tonight"
+        ]
+    },
+    {
+        "hour": "2013-01-03 05h",
+        "neg_count": 28,
+        "neg_terms": [
+            "hate",
+            "laugh",
+            "lmfao",
+            "lol",
+            "look",
+            "looks",
+            "shit",
+            "songs",
+            "wait",
+            "wed"
+        ],
+        "pos_count": 32,
+        "pos_terms": [
+            "cinemas",
+            "dancing",
+            "dark",
+            "saw",
+            "tomorrow",
+            "wasn",
+            "win",
+            "won"
+        ]
+    },
+    {
+        "hour": "2013-01-03 04h",
+        "neg_count": 40,
+        "neg_terms": [
+            "bad",
+            "cats",
+            "funny",
+            "hate",
+            "lol",
+            "shit",
+            "songs",
+            "stupid",
+            "suck",
+            "wait"
+        ],
+        "pos_count": 33,
+        "pos_terms": [
+            "cry",
+            "dancing",
+            "fucks",
+            "moment",
+            "play",
+            "time",
+            "tomorrow",
+            "year"
+        ]
+    },
+    {
+        "hour": "2013-01-03 03h",
+        "neg_count": 83,
+        "neg_terms": [
+            "blood",
+            "bout",
+            "crap",
+            "dont",
+            "hate",
+            "horrible",
+            "lmfao",
+            "lol",
+            "looks",
+            "people",
+            "shit",
+            "sitting",
+            "suck",
+            "talking",
+            "terribly",
+            "wait",
+            "waiting"
+        ],
+        "pos_count": 101,
+        "pos_terms": [
+            "action",
+            "amazing",
+            "awesome",
+            "black",
+            "confused",
+            "cry",
+            "dancing",
+            "fuck",
+            "play",
+            "played",
+            "saw",
+            "tomorrow",
+            "tonight",
+            "wins",
+            "wow"
+        ]
+    },
+    {
+        "hour": "2013-01-03 02h",
+        "neg_count": 22,
+        "neg_terms": [
+            "bad",
+            "hoe",
+            "lol",
+            "wait"
+        ],
+        "pos_count": 98,
+        "pos_terms": [
+            "black",
+            "cinema",
+            "cry",
+            "dancing",
+            "end",
+            "finally",
+            "moment",
+            "sleeping",
+            "tomorrow",
+            "won",
+            "year"
+        ]
+    },
+    {
+        "hour": "2013-01-03 01h",
+        "neg_count": 49,
+        "neg_terms": [
+            "bad",
+            "blood",
+            "bout",
+            "hate",
+            "lmfao",
+            "lol",
+            "look",
+            "looking",
+            "looks",
+            "online",
+            "people",
+            "sit",
+            "wait"
+        ],
+        "pos_count": 290,
+        "pos_terms": [
+            "black",
+            "dancing",
+            "films",
+            "fuck",
+            "playing",
+            "scene",
+            "seen",
+            "tomorrow"
+        ]
+    },
+    {
+        "hour": "2013-01-03 00h",
+        "neg_count": 8,
+        "neg_terms": [
+            "family",
+            "shit",
+            "wait",
+            "wed"
+        ],
+        "pos_count": 7,
+        "pos_terms": [
+            "cinemas",
+            "dancing",
+            "saw",
+            "time",
+            "tomorrow"
+        ]
+    },
+    {
+        "hour": "2013-01-03 01h",
+        "neg_count": 1,
+        "neg_terms": [
+            "bad"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "cry"
+        ]
+    },
+    {
+        "hour": "2013-01-03 00h",
+        "neg_count": 38,
+        "neg_terms": [
+            "bad",
+            "hate",
+            "lol",
+            "people",
+            "shit",
+            "song",
+            "songs",
+            "wait"
+        ],
+        "pos_count": 70,
+        "pos_terms": [
+            "beautiful",
+            "black",
+            "dancing",
+            "films",
+            "fuck",
+            "fucked",
+            "ideas",
+            "saw",
+            "tomorrow",
+            "win",
+            "winning",
+            "won",
+            "year"
+        ]
+    },
+    {
+        "hour": "2013-01-02 23h",
+        "neg_count": 181,
+        "neg_terms": [
+            "bad",
+            "badly",
+            "bout",
+            "cat",
+            "dont",
+            "hate",
+            "lol",
+            "looks",
+            "people",
+            "talking",
+            "terrible",
+            "terribly",
+            "wait",
+            "watchin"
+        ],
+        "pos_count": 169,
+        "pos_terms": [
+            "amazing",
+            "awesome",
+            "best",
+            "black",
+            "dancing",
+            "end",
+            "film",
+            "mind",
+            "moment",
+            "perfect",
+            "saw",
+            "seen",
+            "time",
+            "tomorrow",
+            "wasn",
+            "won",
+            "wow",
+            "year"
+        ]
+    },
+    {
+        "hour": "2013-01-02 22h",
+        "neg_count": 3,
+        "neg_terms": [
+            "lol",
+            "looks"
+        ],
+        "pos_count": 28,
+        "pos_terms": [
+            "film",
+            "films",
+            "fuck",
+            "perfect",
+            "playing",
+            "saw",
+            "tomorrow",
+            "win"
+        ]
+    },
+    {
+        "hour": "2013-01-02 21h",
+        "neg_count": 2,
+        "neg_terms": [
+            "lol",
+            "wait"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "today",
+            "tomorrow"
+        ]
+    },
+    {
+        "hour": "2013-01-02 20h",
+        "neg_count": 7,
+        "neg_terms": [
+            "bad",
+            "lol",
+            "wait"
+        ],
+        "pos_count": 23,
+        "pos_terms": [
+            "fuck",
+            "tomorrow"
+        ]
+    },
+    {
+        "hour": "2013-01-02 19h",
+        "neg_count": 2,
+        "neg_terms": [
+            "lol",
+            "wait"
+        ],
+        "pos_count": 11,
+        "pos_terms": [
+            "win",
+            "year"
+        ]
+    },
+    {
+        "hour": "2013-01-02 18h",
+        "neg_count": 5,
+        "neg_terms": [
+            "hate",
+            "lol",
+            "wait"
+        ],
+        "pos_count": 9,
+        "pos_terms": [
+            "fucking",
+            "tomorrow",
+            "wasn",
+            "win"
+        ]
+    },
+    {
+        "hour": "2013-01-02 17h",
+        "neg_count": 1,
+        "neg_terms": [
+            "bad"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "tomorrow",
+            "win"
+        ]
+    },
+    {
+        "hour": "2013-01-02 16h",
+        "neg_count": 5,
+        "neg_terms": [
+            "wait",
+            "waiting"
+        ],
+        "pos_count": 14,
+        "pos_terms": [
+            "saw",
+            "tomorrow",
+            "win"
+        ]
+    },
+    {
+        "hour": "2013-01-02 15h",
+        "neg_count": 3,
+        "neg_terms": [
+            "blood",
+            "looks",
+            "terrible"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "film",
+            "times"
+        ]
+    },
+    {
+        "hour": "2013-01-02 14h",
+        "neg_count": 3,
+        "neg_terms": [
+            "song",
+            "wait"
+        ],
+        "pos_count": 5,
+        "pos_terms": [
+            "amazing",
+            "film",
+            "saw",
+            "win",
+            "year"
+        ]
+    },
+    {
+        "hour": "2013-01-02 13h",
+        "neg_count": 2,
+        "neg_terms": [
+            "shit",
+            "white"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2013-01-02 12h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 5,
+        "pos_terms": [
+            "cinemas",
+            "win"
+        ]
+    },
+    {
+        "hour": "2013-01-02 11h",
+        "neg_count": 1,
+        "neg_terms": [
+            "looks"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "fucked"
+        ]
+    },
+    {
+        "hour": "2013-01-02 10h",
+        "neg_count": 3,
+        "neg_terms": [
+            "horrible",
+            "laughs",
+            "looking"
+        ],
+        "pos_count": 4,
+        "pos_terms": [
+            "end",
+            "film",
+            "time",
+            "win"
+        ]
+    },
+    {
+        "hour": "2013-01-02 09h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "fucked"
+        ]
+    },
+    {
+        "hour": "2013-01-02 08h",
+        "neg_count": 3,
+        "neg_terms": [
+            "wed"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "cinemas"
+        ]
+    },
+    {
+        "hour": "2013-01-02 07h",
+        "neg_count": 1,
+        "neg_terms": [
+            "crap"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "fuck",
+            "fucking"
+        ]
+    },
+    {
+        "hour": "2013-01-02 06h",
+        "neg_count": 3,
+        "neg_terms": [
+            "shit",
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "fuck"
+        ]
+    },
+    {
+        "hour": "2013-01-02 05h",
+        "neg_count": 11,
+        "neg_terms": [
+            "laughs",
+            "lol",
+            "people",
+            "smh",
+            "suck",
+            "wait"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "cry",
+            "fuck",
+            "time"
+        ]
+    },
+    {
+        "hour": "2013-01-02 04h",
+        "neg_count": 5,
+        "neg_terms": [
+            "look",
+            "looks",
+            "online",
+            "wait"
+        ],
+        "pos_count": 4,
+        "pos_terms": [
+            "awesome",
+            "film",
+            "saw",
+            "win"
+        ]
+    },
+    {
+        "hour": "2013-01-02 03h",
+        "neg_count": 4,
+        "neg_terms": [
+            "family",
+            "lol",
+            "wait"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "film",
+            "saw",
+            "year"
+        ]
+    },
+    {
+        "hour": "2013-01-02 02h",
+        "neg_count": 9,
+        "neg_terms": [
+            "hate",
+            "looking",
+            "wait"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "saw",
+            "seen"
+        ]
+    },
+    {
+        "hour": "2013-01-02 01h",
+        "neg_count": 8,
+        "neg_terms": [
+            "lol",
+            "wait"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "films",
+            "finally",
+            "win"
+        ]
+    },
+    {
+        "hour": "2013-01-02 00h",
+        "neg_count": 6,
+        "neg_terms": [
+            "lol",
+            "look",
+            "wait"
+        ],
+        "pos_count": 5,
+        "pos_terms": [
+            "film",
+            "finally",
+            "moment",
+            "seen",
+            "year"
+        ]
+    },
+    {
+        "hour": "2013-01-01 23h",
+        "neg_count": 2,
+        "neg_terms": [
+            "family",
+            "looks"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "story",
+            "year"
+        ]
+    },
+    {
+        "hour": "2013-01-01 22h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "film",
+            "time",
+            "wasn"
+        ]
+    },
+    {
+        "hour": "2013-01-01 21h",
+        "neg_count": 2,
+        "neg_terms": [
+            "looks",
+            "wait"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "playing",
+            "win"
+        ]
+    },
+    {
+        "hour": "2013-01-01 20h",
+        "neg_count": 2,
+        "neg_terms": [
+            "family",
+            "wait"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "best",
+            "wow",
+            "year"
+        ]
+    },
+    {
+        "hour": "2013-01-01 19h",
+        "neg_count": 2,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 4,
+        "pos_terms": [
+            "film",
+            "seen",
+            "year"
+        ]
+    },
+    {
+        "hour": "2013-01-01 18h",
+        "neg_count": 4,
+        "neg_terms": [
+            "look",
+            "wait"
+        ],
+        "pos_count": 9,
+        "pos_terms": [
+            "awesome",
+            "play",
+            "time",
+            "win",
+            "year"
+        ]
+    },
+    {
+        "hour": "2013-01-01 17h",
+        "neg_count": 7,
+        "neg_terms": [
+            "look",
+            "looks",
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "tomorrow"
+        ]
+    },
+    {
+        "hour": "2013-01-01 16h",
+        "neg_count": 2,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "bit",
+            "year"
+        ]
+    },
+    {
+        "hour": "2013-01-01 15h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "today"
+        ]
+    },
+    {
+        "hour": "2013-01-01 14h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "tomorrow"
+        ]
+    },
+    {
+        "hour": "2013-01-01 13h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2013-01-01 11h",
+        "neg_count": 2,
+        "neg_terms": [
+            "looks",
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2013-01-01 10h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "time"
+        ]
+    },
+    {
+        "hour": "2013-01-01 09h",
+        "neg_count": 1,
+        "neg_terms": [
+            "lol"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "saw"
+        ]
+    },
+    {
+        "hour": "2013-01-01 07h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2013-01-01 06h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 3,
+        "pos_terms": [
+            "year"
+        ]
+    },
+    {
+        "hour": "2013-01-01 05h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 5,
+        "pos_terms": [
+            "best",
+            "film",
+            "played",
+            "plays",
+            "years"
+        ]
+    },
+    {
+        "hour": "2013-01-01 04h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "cinema"
+        ]
+    },
+    {
+        "hour": "2013-01-01 03h",
+        "neg_count": 3,
+        "neg_terms": [
+            "look",
+            "songs",
+            "wait"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "amazing",
+            "win",
+            "year"
+        ]
+    },
+    {
+        "hour": "2013-01-01 02h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "films",
+            "wasn",
+            "year"
+        ]
+    },
+    {
+        "hour": "2013-01-01 01h",
+        "neg_count": 3,
+        "neg_terms": [
+            "finish",
+            "looks",
+            "shit"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "film"
+        ]
+    },
+    {
+        "hour": "2013-01-01 00h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 2,
+        "pos_terms": [
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-31 23h",
+        "neg_count": 5,
+        "neg_terms": [
+            "blood",
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-31 22h",
+        "neg_count": 2,
+        "neg_terms": [
+            "looks",
+            "wait"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "film",
+            "fuck"
+        ]
+    },
+    {
+        "hour": "2012-12-31 21h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 3,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-31 20h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-31 19h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 3,
+        "pos_terms": [
+            "film",
+            "playing"
+        ]
+    },
+    {
+        "hour": "2012-12-31 18h",
+        "neg_count": 1,
+        "neg_terms": [
+            "waiting"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "film",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-31 17h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 6,
+        "pos_terms": [
+            "film",
+            "perfection",
+            "win",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-31 16h",
+        "neg_count": 2,
+        "neg_terms": [
+            "lol",
+            "wait"
+        ],
+        "pos_count": 8,
+        "pos_terms": [
+            "film",
+            "fuck",
+            "perfection"
+        ]
+    },
+    {
+        "hour": "2012-12-31 15h",
+        "neg_count": 3,
+        "neg_terms": [
+            "talks",
+            "wait"
+        ],
+        "pos_count": 4,
+        "pos_terms": [
+            "action",
+            "film",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-31 14h",
+        "neg_count": 2,
+        "neg_terms": [
+            "crap",
+            "looks"
+        ],
+        "pos_count": 9,
+        "pos_terms": [
+            "cinemas",
+            "story",
+            "win",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-31 13h",
+        "neg_count": 5,
+        "neg_terms": [
+            "crap",
+            "looks",
+            "people",
+            "sit",
+            "wait"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "film",
+            "win",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-31 12h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 5,
+        "pos_terms": [
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-31 11h",
+        "neg_count": 3,
+        "neg_terms": [
+            "family",
+            "look"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "saw",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-31 10h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-31 09h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 3,
+        "pos_terms": [
+            "tomorrow",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-31 08h",
+        "neg_count": 3,
+        "neg_terms": [
+            "family",
+            "look",
+            "looks"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-31 07h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-31 06h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "film"
+        ]
+    },
+    {
+        "hour": "2012-12-31 05h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-31 04h",
+        "neg_count": 1,
+        "neg_terms": [
+            "worst"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-31 03h",
+        "neg_count": 10,
+        "neg_terms": [
+            "lol",
+            "looks",
+            "wait"
+        ],
+        "pos_count": 6,
+        "pos_terms": [
+            "black",
+            "end",
+            "films",
+            "seen",
+            "time",
+            "tonight"
+        ]
+    },
+    {
+        "hour": "2012-12-31 02h",
+        "neg_count": 9,
+        "neg_terms": [
+            "bout",
+            "lol"
+        ],
+        "pos_count": 6,
+        "pos_terms": [
+            "won"
+        ]
+    },
+    {
+        "hour": "2012-12-31 01h",
+        "neg_count": 3,
+        "neg_terms": [
+            "hate",
+            "looking",
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "crying"
+        ]
+    },
+    {
+        "hour": "2012-12-31 00h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 4,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-30 23h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-30 22h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-30 21h",
+        "neg_count": 3,
+        "neg_terms": [
+            "look",
+            "shit",
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "years"
+        ]
+    },
+    {
+        "hour": "2012-12-30 20h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 6,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-30 19h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 6,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-30 18h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "video"
+        ]
+    },
+    {
+        "hour": "2012-12-30 17h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-30 16h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 2,
+        "pos_terms": [
+            "time",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-30 15h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 4,
+        "pos_terms": [
+            "cinema",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-30 14h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 5,
+        "pos_terms": [
+            "time",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-30 13h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 7,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-30 12h",
+        "neg_count": 2,
+        "neg_terms": [
+            "looks",
+            "wait"
+        ],
+        "pos_count": 14,
+        "pos_terms": [
+            "cinema",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-30 11h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-30 10h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "video"
+        ]
+    },
+    {
+        "hour": "2012-12-30 09h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-30 08h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-30 07h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-30 06h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-30 05h",
+        "neg_count": 4,
+        "neg_terms": [
+            "bad",
+            "shit",
+            "wait"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "black",
+            "saw"
+        ]
+    },
+    {
+        "hour": "2012-12-30 04h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-30 03h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-30 02h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 5,
+        "pos_terms": [
+            "saw",
+            "seen",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-30 01h",
+        "neg_count": 4,
+        "neg_terms": [
+            "talks",
+            "wait",
+            "watchin"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "black"
+        ]
+    },
+    {
+        "hour": "2012-12-30 00h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 4,
+        "pos_terms": [
+            "cinema",
+            "film",
+            "saw",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-29 23h",
+        "neg_count": 3,
+        "neg_terms": [
+            "looking",
+            "shit",
+            "watchin"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-29 22h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-29 21h",
+        "neg_count": 3,
+        "neg_terms": [
+            "talking"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-29 20h",
+        "neg_count": 4,
+        "neg_terms": [
+            "family",
+            "lol"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "playing"
+        ]
+    },
+    {
+        "hour": "2012-12-29 19h",
+        "neg_count": 1,
+        "neg_terms": [
+            "lol"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "seen"
+        ]
+    },
+    {
+        "hour": "2012-12-29 18h",
+        "neg_count": 6,
+        "neg_terms": [
+            "hilarious",
+            "lol",
+            "wait"
+        ],
+        "pos_count": 4,
+        "pos_terms": [
+            "fucking",
+            "tonight",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-29 17h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-29 16h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 2,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-29 15h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-29 14h",
+        "neg_count": 3,
+        "neg_terms": [
+            "american",
+            "looking",
+            "terribly"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-29 13h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 2,
+        "pos_terms": [
+            "sleep",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-29 12h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-29 11h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-29 10h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-29 09h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-29 08h",
+        "neg_count": 1,
+        "neg_terms": [
+            "looks"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-29 07h",
+        "neg_count": 1,
+        "neg_terms": [
+            "looks"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-29 06h",
+        "neg_count": 2,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "saw"
+        ]
+    },
+    {
+        "hour": "2012-12-29 05h",
+        "neg_count": 4,
+        "neg_terms": [
+            "looks",
+            "shit",
+            "talk",
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "tomorrow"
+        ]
+    },
+    {
+        "hour": "2012-12-29 04h",
+        "neg_count": 3,
+        "neg_terms": [
+            "looks",
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "seen"
+        ]
+    },
+    {
+        "hour": "2012-12-29 03h",
+        "neg_count": 7,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "best"
+        ]
+    },
+    {
+        "hour": "2012-12-29 02h",
+        "neg_count": 1,
+        "neg_terms": [
+            "lol"
+        ],
+        "pos_count": 5,
+        "pos_terms": [
+            "sawing",
+            "tonight"
+        ]
+    },
+    {
+        "hour": "2012-12-29 01h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 2,
+        "pos_terms": [
+            "sawing",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-29 00h",
+        "neg_count": 3,
+        "neg_terms": [
+            "americans",
+            "laughing",
+            "lol"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-28 23h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 3,
+        "pos_terms": [
+            "sawing",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-28 22h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 7,
+        "pos_terms": [
+            "sawing",
+            "seen",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-28 21h",
+        "neg_count": 2,
+        "neg_terms": [
+            "shit"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "amazing",
+            "tonight",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-28 20h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-28 19h",
+        "neg_count": 2,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "oscar",
+            "tonight"
+        ]
+    },
+    {
+        "hour": "2012-12-28 18h",
+        "neg_count": 8,
+        "neg_terms": [
+            "dont",
+            "lol",
+            "look",
+            "wait",
+            "waiting"
+        ],
+        "pos_count": 8,
+        "pos_terms": [
+            "fucking",
+            "today",
+            "tonight",
+            "years"
+        ]
+    },
+    {
+        "hour": "2012-12-28 17h",
+        "neg_count": 1,
+        "neg_terms": [
+            "looks"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-28 16h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 8,
+        "pos_terms": [
+            "cinemas",
+            "saw",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-28 15h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 6,
+        "pos_terms": [
+            "awesome",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-28 14h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-28 13h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-28 12h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "film"
+        ]
+    },
+    {
+        "hour": "2012-12-28 11h",
+        "neg_count": 2,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "wasn"
+        ]
+    },
+    {
+        "hour": "2012-12-28 10h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-28 09h",
+        "neg_count": 4,
+        "neg_terms": [
+            "hate",
+            "look",
+            "looks"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-28 08h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-28 07h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-28 06h",
+        "neg_count": 4,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-28 05h",
+        "neg_count": 4,
+        "neg_terms": [
+            "looking",
+            "waiting"
+        ],
+        "pos_count": 6,
+        "pos_terms": [
+            "awesome",
+            "perfect",
+            "win",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-28 04h",
+        "neg_count": 6,
+        "neg_terms": [
+            "bad",
+            "looks",
+            "wait"
+        ],
+        "pos_count": 82,
+        "pos_terms": [
+            "fucking",
+            "perfect",
+            "win",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-28 03h",
+        "neg_count": 1,
+        "neg_terms": [
+            "bad"
+        ],
+        "pos_count": 4,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-28 02h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "films"
+        ]
+    },
+    {
+        "hour": "2012-12-28 01h",
+        "neg_count": 3,
+        "neg_terms": [
+            "bad",
+            "lol"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-28 00h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 2,
+        "pos_terms": [
+            "awesome",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-27 23h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 3,
+        "pos_terms": [
+            "black",
+            "time",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-27 22h",
+        "neg_count": 1,
+        "neg_terms": [
+            "hate"
+        ],
+        "pos_count": 6,
+        "pos_terms": [
+            "black",
+            "films",
+            "seen",
+            "time",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-27 21h",
+        "neg_count": 1,
+        "neg_terms": [
+            "joking"
+        ],
+        "pos_count": 4,
+        "pos_terms": [
+            "seen",
+            "win",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-27 20h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 2,
+        "pos_terms": [
+            "win",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-27 19h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "best"
+        ]
+    },
+    {
+        "hour": "2012-12-27 18h",
+        "neg_count": 2,
+        "neg_terms": [
+            "look"
+        ],
+        "pos_count": 4,
+        "pos_terms": [
+            "cinema",
+            "win",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-27 17h",
+        "neg_count": 2,
+        "neg_terms": [
+            "shit",
+            "wait"
+        ],
+        "pos_count": 4,
+        "pos_terms": [
+            "best",
+            "saw",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-27 16h",
+        "neg_count": 3,
+        "neg_terms": [
+            "badly",
+            "shit",
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "fuck"
+        ]
+    },
+    {
+        "hour": "2012-12-27 15h",
+        "neg_count": 5,
+        "neg_terms": [
+            "badly",
+            "lol",
+            "looking",
+            "shit",
+            "wait"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "times",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-27 14h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-27 13h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 3,
+        "pos_terms": [
+            "win",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-27 12h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 4,
+        "pos_terms": [
+            "cinemas",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-27 11h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-27 08h",
+        "neg_count": 2,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "video"
+        ]
+    },
+    {
+        "hour": "2012-12-27 07h",
+        "neg_count": 3,
+        "neg_terms": [
+            "smh",
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-27 06h",
+        "neg_count": 3,
+        "neg_terms": [
+            "lol",
+            "shit"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-27 05h",
+        "neg_count": 2,
+        "neg_terms": [
+            "online",
+            "suck"
+        ],
+        "pos_count": 4,
+        "pos_terms": [
+            "film",
+            "saw",
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-27 04h",
+        "neg_count": 2,
+        "neg_terms": [
+            "dont",
+            "wait"
+        ],
+        "pos_count": 4,
+        "pos_terms": [
+            "black",
+            "play",
+            "saw",
+            "sleep"
+        ]
+    },
+    {
+        "hour": "2012-12-27 03h",
+        "neg_count": 1,
+        "neg_terms": [
+            "suck"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-27 02h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "saw"
+        ]
+    },
+    {
+        "hour": "2012-12-27 01h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "oscar",
+            "saw"
+        ]
+    },
+    {
+        "hour": "2012-12-27 00h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 23h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 22h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 21h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 2,
+        "pos_terms": [
+            "moment",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-26 20h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 19h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 18h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "best"
+        ]
+    },
+    {
+        "hour": "2012-12-26 17h",
+        "neg_count": 4,
+        "neg_terms": [
+            "family",
+            "look"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 16h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 15h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 14h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 13h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 12h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 11h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 10h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 09h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 08h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 07h",
+        "neg_count": 1,
+        "neg_terms": [
+            "bout"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 06h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 05h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 04h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "tonight"
+        ]
+    },
+    {
+        "hour": "2012-12-26 03h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 02h",
+        "neg_count": 2,
+        "neg_terms": [
+            "family",
+            "look"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-26 01h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-26 00h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 23h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "seen"
+        ]
+    },
+    {
+        "hour": "2012-12-25 22h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 21h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 20h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 19h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 18h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 17h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 16h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 14h",
+        "neg_count": 2,
+        "neg_terms": [
+            "family",
+            "look"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 13h",
+        "neg_count": 2,
+        "neg_terms": [
+            "family",
+            "look"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 12h",
+        "neg_count": 16,
+        "neg_terms": [
+            "family",
+            "look"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 11h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 09h",
+        "neg_count": 1,
+        "neg_terms": [
+            "looks"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 07h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 05h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 04h",
+        "neg_count": 1,
+        "neg_terms": [
+            "bad"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 03h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 02h",
+        "neg_count": 5,
+        "neg_terms": [
+            "family"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-25 01h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "tomorrow"
+        ]
+    },
+    {
+        "hour": "2012-12-24 23h",
+        "neg_count": 1,
+        "neg_terms": [
+            "looks"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "seen"
+        ]
+    },
+    {
+        "hour": "2012-12-24 22h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "films"
+        ]
+    },
+    {
+        "hour": "2012-12-24 21h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 2,
+        "pos_terms": [
+            "greatest",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-24 20h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-24 19h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-24 18h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-24 17h",
+        "neg_count": 1,
+        "neg_terms": [
+            "shit"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-24 16h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-24 15h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 3,
+        "pos_terms": [
+            "black",
+            "time"
+        ]
+    },
+    {
+        "hour": "2012-12-24 14h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-24 13h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-24 12h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-24 11h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-24 08h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-24 07h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-24 06h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 2,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-24 05h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-24 04h",
+        "neg_count": 3,
+        "neg_terms": [
+            "dont",
+            "shit",
+            "wait"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "saw"
+        ]
+    },
+    {
+        "hour": "2012-12-24 03h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-24 02h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 2,
+        "pos_terms": [
+            "saw",
+            "time"
+        ]
+    },
+    {
+        "hour": "2012-12-24 01h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-24 00h",
+        "neg_count": 3,
+        "neg_terms": [
+            "looks",
+            "wait"
+        ],
+        "pos_count": 4,
+        "pos_terms": [
+            "seen",
+            "wow"
+        ]
+    },
+    {
+        "hour": "2012-12-23 23h",
+        "neg_count": 3,
+        "neg_terms": [
+            "shit",
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-23 22h",
+        "neg_count": 62,
+        "neg_terms": [
+            "sucks",
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-23 21h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-23 20h",
+        "neg_count": 1,
+        "neg_terms": [
+            "shit"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-23 18h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-23 17h",
+        "neg_count": 1,
+        "neg_terms": [
+            "lol"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-23 16h",
+        "neg_count": 2,
+        "neg_terms": [
+            "dont"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "dream",
+            "dreams"
+        ]
+    },
+    {
+        "hour": "2012-12-23 15h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-23 13h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "year"
+        ]
+    },
+    {
+        "hour": "2012-12-23 12h",
+        "neg_count": 1,
+        "neg_terms": [
+            "looks"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "film"
+        ]
+    },
+    {
+        "hour": "2012-12-23 11h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "time"
+        ]
+    },
+    {
+        "hour": "2012-12-23 10h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-23 08h",
+        "neg_count": 1,
+        "neg_terms": [
+            "look"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-23 06h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-23 05h",
+        "neg_count": 7,
+        "neg_terms": [
+            "lol",
+            "shit",
+            "wait",
+            "waiting"
+        ],
+        "pos_count": 4,
+        "pos_terms": [
+            "end",
+            "saw",
+            "times"
+        ]
+    },
+    {
+        "hour": "2012-12-23 04h",
+        "neg_count": 2,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-23 03h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-23 02h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-23 01h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "mind"
+        ]
+    },
+    {
+        "hour": "2012-12-23 00h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "sleep",
+            "story"
+        ]
+    },
+    {
+        "hour": "2012-12-22 23h",
+        "neg_count": 1,
+        "neg_terms": [
+            "badly"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-22 22h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-22 21h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-22 20h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-22 19h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-22 18h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "crying"
+        ]
+    },
+    {
+        "hour": "2012-12-22 17h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "crying"
+        ]
+    },
+    {
+        "hour": "2012-12-22 16h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 2,
+        "pos_terms": [
+            "saw",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-22 15h",
+        "neg_count": 1,
+        "neg_terms": [
+            "waiting"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-22 14h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "times"
+        ]
+    },
+    {
+        "hour": "2012-12-22 13h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-22 12h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-22 11h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-22 10h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-22 09h",
+        "neg_count": 1,
+        "neg_terms": [
+            "looks"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "amazing"
+        ]
+    },
+    {
+        "hour": "2012-12-22 08h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-22 07h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-22 06h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-22 05h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "film"
+        ]
+    },
+    {
+        "hour": "2012-12-22 04h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-22 03h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "saw"
+        ]
+    },
+    {
+        "hour": "2012-12-22 02h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-22 01h",
+        "neg_count": 8,
+        "neg_terms": [
+            "lmfao",
+            "shit",
+            "wait"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "saw",
+            "seen"
+        ]
+    },
+    {
+        "hour": "2012-12-22 00h",
+        "neg_count": 1,
+        "neg_terms": [
+            "looks"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "film",
+            "seen"
+        ]
+    },
+    {
+        "hour": "2012-12-21 23h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "fucking"
+        ]
+    },
+    {
+        "hour": "2012-12-21 22h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-21 21h",
+        "neg_count": 3,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "dark"
+        ]
+    },
+    {
+        "hour": "2012-12-21 20h",
+        "neg_count": 5,
+        "neg_terms": [
+            "talks"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "dark",
+            "saw",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-21 19h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-21 18h",
+        "neg_count": 4,
+        "neg_terms": [
+            "talks",
+            "waiting"
+        ],
+        "pos_count": 5,
+        "pos_terms": [
+            "end",
+            "tomorrow"
+        ]
+    },
+    {
+        "hour": "2012-12-21 17h",
+        "neg_count": 3,
+        "neg_terms": [
+            "wait",
+            "waiting"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "dark",
+            "film",
+            "won"
+        ]
+    },
+    {
+        "hour": "2012-12-21 16h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "ver"
+        ]
+    },
+    {
+        "hour": "2012-12-21 15h",
+        "neg_count": 2,
+        "neg_terms": [
+            "looking",
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "end"
+        ]
+    },
+    {
+        "hour": "2012-12-21 14h",
+        "neg_count": 1,
+        "neg_terms": [
+            "badly"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-21 13h",
+        "neg_count": 2,
+        "neg_terms": [
+            "wed"
+        ],
+        "pos_count": 4,
+        "pos_terms": [
+            "cinemas",
+            "time"
+        ]
+    },
+    {
+        "hour": "2012-12-21 12h",
+        "neg_count": 2,
+        "neg_terms": [
+            "wed"
+        ],
+        "pos_count": 5,
+        "pos_terms": [
+            "cinemas",
+            "dark",
+            "director"
+        ]
+    },
+    {
+        "hour": "2012-12-21 11h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 1,
+        "pos_terms": [
+            "director"
+        ]
+    },
+    {
+        "hour": "2012-12-21 10h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-21 09h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-21 07h",
+        "neg_count": 2,
+        "neg_terms": [
+            "peoples",
+            "wait"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-21 06h",
+        "neg_count": 1,
+        "neg_terms": [
+            "look"
+        ],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-21 05h",
+        "neg_count": 3,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "fucking"
+        ]
+    },
+    {
+        "hour": "2012-12-21 04h",
+        "neg_count": 9,
+        "neg_terms": [
+            "badly",
+            "wait"
+        ],
+        "pos_count": 9,
+        "pos_terms": [
+            "fucking",
+            "idea",
+            "saw",
+            "understand"
+        ]
+    },
+    {
+        "hour": "2012-12-21 03h",
+        "neg_count": 6,
+        "neg_terms": [
+            "badly",
+            "dont",
+            "wait"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "saw",
+            "ver"
+        ]
+    },
+    {
+        "hour": "2012-12-21 02h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 1,
+        "pos_terms": [
+            "ver"
+        ]
+    },
+    {
+        "hour": "2012-12-21 01h",
+        "neg_count": 0,
+        "neg_terms": [],
+        "pos_count": 0,
+        "pos_terms": []
+    },
+    {
+        "hour": "2012-12-21 00h",
+        "neg_count": 1,
+        "neg_terms": [
+            "wait"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "best",
+            "tomorrow"
+        ]
+    },
+    {
+        "hour": "2012-12-20 23h",
+        "neg_count": 7,
+        "neg_terms": [
+            "bad",
+            "wait"
+        ],
+        "pos_count": 8,
+        "pos_terms": [
+            "director",
+            "saw",
+            "today",
+            "video",
+            "win"
+        ]
+    },
+    {
+        "hour": "2012-12-20 22h",
+        "neg_count": 5,
+        "neg_terms": [
+            "talks",
+            "wait"
+        ],
+        "pos_count": 2,
+        "pos_terms": [
+            "awesome"
+        ]
+    },
+    {
+        "hour": "2012-12-20 21h",
+        "neg_count": 18,
+        "neg_terms": [
+            "looking",
+            "talks",
+            "wait",
+            "waited"
+        ],
+        "pos_count": 3,
+        "pos_terms": [
+            "director",
+            "time",
+            "wins"
+        ]
+    }
+]
