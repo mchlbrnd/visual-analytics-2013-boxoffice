@@ -161,7 +161,7 @@ d3.json("data/twitter/hourly_sums.json", function(data) {
 			.duration(200)      
 			.style("opacity", .9);      
 		ttip.html(ttipContent(d, 'neg'))
-			.style("background", "gold")
+			.style("background", "#ff4e4e")
 			.style("left", (d3.event.pageX + 10) + "px")     
 			.style("top", (d3.event.pageY - 45) + "px");    
 		});

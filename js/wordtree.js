@@ -65,8 +65,8 @@ function wordtree() {
         .text(function(d, i) { return (i && d.token.whitespace ? "\u00a0" : "") + d.token.token; })
 		.attr("fill", function(d) {
 			if (positive_terms.indexOf(Stem() (d.token.lower)) >= 0) {return "blue"}
-			else if (negative_terms.indexOf(Stem() (d.token.lower)) >= 0) {return "orange"}
-			else if (actor_terms.indexOf(d.token.lower) >= 0) {return "seagreen"}
+			else if (negative_terms.indexOf(Stem() (d.token.lower)) >= 0) {return "red"}
+			else if (actor_terms.indexOf(d.token.lower) >= 0) {return "#9a009a"}
 			else {return ""};
 			});
     tspan.on("click", function(d) {

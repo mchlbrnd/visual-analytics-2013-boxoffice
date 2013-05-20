@@ -35,8 +35,9 @@ html, body {
   padding: 0;
 }
 body {
-  font-family: Georgia, serif;
+  font-family: Tahoma, Geneva, sans-serif;
 }
+#vis { font-family: Georgia, serif; }
 path { fill: none; stroke: #666; stroke-width: .5px; }
 text {
   cursor: pointer;
@@ -49,7 +50,7 @@ text {
   user-select: none;
 }
 svg:not(.hover) text:hover, .hover tspan:hover {
-  fill: #f99;
+  fill: seagreen;
 }
 #header {
   background: #f5f5f5;
@@ -184,6 +185,12 @@ h2 {
   bottom: 0;
   background: #fff;
   overflow-y: scroll;
+}
+
+.help-wrapper {
+  width: 1200px ;
+  margin-left: auto ;
+  margin-right: auto ;
 }
 
 .center {
@@ -332,8 +339,8 @@ circle.positive {
 
 .negarea,
 .negative circle {
-  fill: gold;
-  stroke: orange;
+  fill: #ff4e4e;
+  stroke: #ff0000;
 }
 
 div.tooltip {   
@@ -349,5 +356,5 @@ div.tooltip {
 
 .tooltip a,
 .tooltip a:visited {
-  color: #333
+  color: #222
 }
