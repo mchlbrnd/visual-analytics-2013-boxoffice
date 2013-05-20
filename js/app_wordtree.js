@@ -98,6 +98,7 @@ resize();
 
 d3.select("#form").on("submit", function() {
   d3.event.preventDefault();
+  var keyword = d3.select("#form").select("#keyword");
   url({prefix: keyword.property("value")});
   change();
 });
