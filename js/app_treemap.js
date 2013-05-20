@@ -48,7 +48,7 @@ d3.json("data/imdb/Texas Chainsaw 3D (2013).json", function(data) {
 				total_openingweekend += c.ow_recode;
 			});
 			return "Number of movies {0}, total opening weekend weigthed by position in credits ${1}, mean rating {2}"
-				.format(total_movies, total_openingweekend, total_rating/total_movies);
+				.format(total_movies, total_openingweekend, Number(total_rating/total_movies).toFixed(1));
 		});
 
 	// create parent cells
