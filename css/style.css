@@ -339,11 +339,15 @@ circle.positive {
 div.tooltip {   
   position: absolute;           
   text-align: center;           
-  width: 260px;                  
-  height: 30px;                 
-  padding: 2px;             
+  width: 73px;                                   
+  padding: 4px;             
   font: 12px sans-serif;        
   background: lightgrey;   
   border: 0px;      
   border-radius: 8px;                    
+}
+
+.tooltip a,
+.tooltip a:visited {
+  color: #333
 }

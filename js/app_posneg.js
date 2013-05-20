@@ -45,7 +45,7 @@ var area_neg = d3.svg.area()
     .y0(function(d) { return yn(d.neg_count); })
     .y1(0);
 
-var svg = d3.select("#posnegtweetvis").append("svg")
+var pn_svg = d3.select("#posnegtweetvis").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", 2 * height + margin.top + 2 * margin.bottom)
   .append("g")
@@ -54,7 +54,7 @@ var svg = d3.select("#posnegtweetvis").append("svg")
 var ttip = d3.select("#posnegtweetvis").append("div")   
     .attr("class", "tooltip")               
     .style("opacity", 0)
-	.on("mouseout", function(d) {       
+	.on("mouseleave", function(d) {       
 		ttip.transition()        
 			.duration(500)      
 			.style("opacity", 0)
@@ -63,6 +63,16 @@ var ttip = d3.select("#posnegtweetvis").append("div")
 			});
 	});
 
+function ttipContent(d, valence) {
+	var term_list = valence === 'pos' ? d.pos_terms : d.neg_terms;
+	var formatted_terms = "";
+	for (var i=0,len=term_list.length; i<len; i++) {
+		formatted_terms += '<br/><a href="index.htm?source=data%2Ftwitter%2Ftweets.txt&prefix='+term_list[i]+'">'+term_list[i]+'</a>';
+	}
+	content = formatTime(d.hour) + formatted_terms;
+	return content;
+}
+	
 d3.json("data/twitter/hourly_sums.json", function(data) {
   data.forEach(function(d) {
     d.hour = parseDate(d.hour);
@@ -74,17 +84,17 @@ d3.json("data/twitter/hourly_sums.json", function(data) {
   yp.domain([1, d3.max(data, function(d) { return d.pos_count; })]);
   yn.domain([1, d3.max(data, function(d) { return d.neg_count; })]);
 
-  svg.append("path")
+  pn_svg.append("path")
       .datum(data)
       .attr("class", "area posarea")
       .attr("d", area_pos);
 
-  svg.append("g")
+  pn_svg.append("g")
       .attr("class", "x axis")
       .attr("transform", "translate(0," + height + ")")
       .call(xAxis);
 
-  svg.append("g")
+  pn_svg.append("g")
       .attr("class", "y axis positive")
       .call(ypAxis)
     .append("text")
@@ -94,7 +104,7 @@ d3.json("data/twitter/hourly_sums.json", function(data) {
       .style("text-anchor", "end")
       .text("Positive count");
 	  
-  svg.append("g").selectAll('g.generator')
+  pn_svg.append("g").selectAll('g.generator')
 	  .data(data)
 	  .enter().append("svg:circle")
 	  .attr("class", "positive")
@@ -109,14 +119,14 @@ d3.json("data/twitter/hourly_sums.json", function(data) {
 		ttip.transition()        
 			.duration(200)      
 			.style("opacity", .9);      
-		ttip.html(formatTime(d.hour) + "<br/>"  + d.pos_terms)
+		ttip.html(ttipContent(d, 'pos'))
 			.style("background", "cornflowerblue")
-			.style("left", (d3.event.pageX) + "px")     
-			.style("top", (d3.event.pageY - 28) + "px");    
+			.style("left", (d3.event.pageX + 10) + "px")     
+			.style("top", (d3.event.pageY - 45) + "px");    
 		});
 
 	  
-  var neg = svg.append("g")
+  var neg = pn_svg.append("g")
 	  .attr("class", "negative")
 	  .attr("transform", "translate(0," + (height + margin.bottom) + ")");
 	  
@@ -150,9 +160,9 @@ d3.json("data/twitter/hourly_sums.json", function(data) {
 		ttip.transition()        
 			.duration(200)      
 			.style("opacity", .9);      
-		ttip.html(formatTime(d.hour) + "<br/>"  + d.neg_terms)
+		ttip.html(ttipContent(d, 'neg'))
 			.style("background", "gold")
-			.style("left", (d3.event.pageX) + "px")     
-			.style("top", (d3.event.pageY - 28) + "px");    
+			.style("left", (d3.event.pageX + 10) + "px")     
+			.style("top", (d3.event.pageY - 45) + "px");    
 		});
 });
