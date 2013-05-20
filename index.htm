@@ -19,11 +19,12 @@
 				<h1 id="logo"><a href="http://www.jasondavies.com/wordtree/">Word Tree</a></h1>
 
 				<form style="display: none;" id="form-source">
-					<input value="flickr-comments.txt" id="source" placeholder="URL or Twitter @handle…" type="text">
+					<input type="hidden" id="source" value="data/twitter/tweets.txt">
+					<input value="" id="keyword" placeholder="Keyword.." type="text">
 				</form>
 
-				<form style="display: inline-block;" id="form">
-					<input value="Thank you" id="keyword" placeholder="Keyword…" type="text">
+				<form style="display: none;" id="form">
+					<input value="" id="keyword" placeholder="Keyword…" type="text">
 					<label for="reverse" style="font-size: small"><input id="reverse" type="checkbox"> reverse tree</label>
 					<label for="phrase-line" style="font-size: small"><input id="phrase-line" type="checkbox"> one phrase per line</label>
 				</form>

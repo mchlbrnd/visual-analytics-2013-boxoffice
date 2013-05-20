@@ -104,7 +104,7 @@ d3.select("#form").on("submit", function() {
 
 d3.select("#form-source").on("submit", function() {
   d3.event.preventDefault();
-  url({source: source.property("value"), prefix: ""}, true);
+  url({source: source.property("value"), prefix: keyword.property("value")}, true);
   change();
 });
 
