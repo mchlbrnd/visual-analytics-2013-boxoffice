@@ -45,11 +45,22 @@
 			<div class="help-wrapper grey">
 				<!-- Tweet line chart and actor treemap -->
 				<h1>Texas Chainsaw 3D</h1>		
-				<p>Some introduction here..</p>
-				Tweet line chart here along with some description..</p>
+				<p style="line-height: 50%">The two visualizations shown below can help you predict the success of a movie.</p>
+                <p style="line-height: 50%">The first one shows the number of positive and negative tweets about the movie.</p>
+                <p style="line-height: 50%">Using the searchbar above you can see the context of how words or strings of words were used in the tweets.</p>
+                <p style="line-height: 50%">The second visualization shows the average IMDb rating for the movies every cast member appeared in and the opening weekend revenue for each of those movies.</p>
 				<div id="posnegtweetvis"></div>
-				Actor treemap here along with some description and totals..
+                <p style="line-height: 50%">This chart shows the number of positive and negative tweets that were tweeted each up to the release of the movie with intervals of one hour.</p>
+                <p style="line-height: 50%">This is done by identifying certain words in said tweets. These words are shown when you mouse over each data point.</p>
+                <p style="line-height: 50%">By clicking on one of those words you get to see how these words are used in the tweets.</p>
+                <p style="line-height: 50%">The bar on the far right shows the distribution of positive and negative tweets.</p>
+				
 				<div id="actortreemapvis" style="width: 1200px; height: 620px;"></div>
+                <br><br><p style="line-height: 50%">This tree map visualization shows the rating for every castmember by taking the average of the movies they previously appeared in (WHERE???).</p>
+                <p style="line-height: 50%">The size of the cast member's box shows the sum of the opening weekend revenue of their previous movies.</p>
+                <p style="line-height: 50%">The color of the boxes indicates the rating of this movie where blue means it received a higher rating on IMDb compared to a red one.</p>
+                <p style="line-height: 50%">The size of a movie's box depicts how its opening weekend revenue compares to other moves the cast member appeared in.</p>
+                <p style="line-height: 50%">Click to zoom in and out to see additional information about each movie or cast member.</p>
 			</div>
 		</div>
 		<script src="js/app_wordtree.js"></script>
