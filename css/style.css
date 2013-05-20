@@ -37,6 +37,13 @@ html, body {
 body {
   font-family: Tahoma, Geneva, sans-serif;
 }
+body p {
+  padding-left: 25px;
+}
+#help-window h1 {
+  padding-left: 15px;
+}
+
 #vis { font-family: Georgia, serif; }
 path { fill: none; stroke: #666; stroke-width: .5px; }
 text {
@@ -136,13 +143,15 @@ input {
   float: right;
 }
 
-#logo a {
+#logo a,
+#explore-wt a {
   text-decoration: none;
   color: #000;
   text-transform: lowercase;
 }
 
-#logo a:hover {
+#logo a:hover,
+#explore-wt:hover {
   color: #f60;
 }
 
@@ -154,7 +163,12 @@ input {
 
 h2 {
   font-weight: 300;
-  font-size: 1.5em;
+  line-height: 25px;
+  margin: 0;
+  padding: 0;
+  float: left;
+  margin-right: 1em;
+  font-size: 1.2em;
 }
 
 .copyright {
@@ -357,4 +371,22 @@ div.tooltip {
 .tooltip a,
 .tooltip a:visited {
   color: #222
+}
+
+#help-window {
+	background-image: linear-gradient(left , rgb(255,255,255) 0%, rgb(235,235,235) 25%, rgb(235,235,235) 70%, rgb(255,255,255) 100%);
+	background-image: -o-linear-gradient(left , rgb(255,255,255) 0%, rgb(235,235,235) 25%, rgb(235,235,235) 70%, rgb(255,255,255) 100%);
+	background-image: -moz-linear-gradient(left , rgb(255,255,255) 0%, rgb(235,235,235) 25%, rgb(235,235,235) 70%, rgb(255,255,255) 100%);
+	background-image: -webkit-linear-gradient(left , rgb(255,255,255) 0%, rgb(235,235,235) 25%, rgb(235,235,235) 70%, rgb(255,255,255) 100%);
+	background-image: -ms-linear-gradient(left , rgb(255,255,255) 0%, rgb(235,235,235) 25%, rgb(235,235,235) 70%, rgb(255,255,255) 100%);
+
+	background-image: -webkit-gradient(
+		linear,
+		left top,
+		right top,
+		color-stop(0, rgb(255,255,255)),
+		color-stop(0.25, rgb(235,235,235)),
+		color-stop(0.70, rgb(235,235,235)),
+		color-stop(1, rgb(255,255,255))
+	);
 }

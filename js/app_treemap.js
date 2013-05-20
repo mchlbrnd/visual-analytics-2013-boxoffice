@@ -38,7 +38,7 @@ d3.json("data/imdb/Texas Chainsaw 3D (2013).json", function(data) {
 		return d.children;
 	});
 	
-	d3.select("#actortreemapvis")
+	d3.select(".help-wrapper")
 		.append("p")
 		.text(function(d) {
 			total_openingweekend = total_movies = total_rating = 0;
@@ -47,7 +47,7 @@ d3.json("data/imdb/Texas Chainsaw 3D (2013).json", function(data) {
 				total_movies += 1;
 				total_openingweekend += c.ow_recode;
 			});
-			return "Number of movies {0}, total opening weekend weigthed by position in credits ${1}, mean rating {2}"
+			return "Number of movies {0}, total opening weekend weighted by position in credits ${1}, mean rating {2}"
 				.format(total_movies, total_openingweekend, Number(total_rating/total_movies).toFixed(1));
 		});
 

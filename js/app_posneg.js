@@ -47,7 +47,7 @@ var area_neg = d3.svg.area()
 
 var pn_svg = d3.select("#posnegtweetvis").append("svg")
     .attr("width", width + margin.left + margin.right)
-    .attr("height", 2 * height + margin.top + 2 * margin.bottom)
+    .attr("height", 2 * height + margin.top + 1.5 * margin.bottom)
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 	
@@ -67,7 +67,7 @@ function ttipContent(d, valence) {
 	var term_list = valence === 'pos' ? d.pos_terms : d.neg_terms;
 	var formatted_terms = "";
 	for (var i=0,len=term_list.length; i<len; i++) {
-		formatted_terms += '<br/><a href="index.htm?source=data%2Ftwitter%2Ftweets.txt&prefix='+term_list[i]+'">'+term_list[i]+'</a>';
+		formatted_terms += '<br/><a href="index.htm?source=data%2Ftwitter%2Ftweets.txt&phrase-line=1&prefix='+term_list[i]+'">'+term_list[i]+'</a>';
 	}
 	content = formatTime(d.hour) + formatted_terms;
 	return content;
@@ -140,7 +140,7 @@ d3.json("data/twitter/hourly_sums.json", function(data) {
 		.call(ynAxis)
       .append("text")
 		.attr("transform", "rotate(-90)")
-		.attr("x", -0.9*height)
+		.attr("x", -height)
 		.attr("y", 6)
 		.attr("dy", ".71em")
 		.style("text-anchor", "start")

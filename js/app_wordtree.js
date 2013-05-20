@@ -105,8 +105,9 @@ d3.select("#form").on("submit", function() {
 
 d3.select("#form-source").on("submit", function() {
   d3.event.preventDefault();
-  url({source: source.property("value"), prefix: keyword.property("value")}, true);
+  url({source: source.property("value"), "phrase-line": 1, prefix: keyword.property("value")}, true);
   change();
+  d3.select("#phrase-line").property("checked", +state["phrase-line"]);
 });
 
 d3.select("#sort").selectAll("option")
