@@ -100,9 +100,9 @@ d3.json("data/twitter/hourly_sums.json", function(data) {
 	  .attr("class", "positive")
 	  .attr("cx", function(d){ return x(d.hour);})
 	  .attr("cy", function(d){ return yp(d.pos_count);})
-	  // hier probeer ik de punten met count==0 te verbergen, maar dat lukt niet
+	  // hide datapoints with value 0 (is 1 due to log scale)
 	  .attr("r", function(d){
-			if (d.pos_count) {return 2}
+			if (d.pos_count > 1) {return 2}
 			else {return 0};
 			})
 	  .on("mouseover", function(d) {      
@@ -141,7 +141,11 @@ d3.json("data/twitter/hourly_sums.json", function(data) {
 		.enter().append("svg:circle")
 		.attr("cx", function(d){ return x(d.hour);})
 		.attr("cy", function(d){ return yn(d.neg_count);})
-		.attr("r", function(d){ return 2;})
+		// hide datapoints with value 0 (is 1 due to log scale)
+		.attr("r", function(d){
+			if (d.neg_count > 1) {return 2}
+			else {return 0};
+			})
 		.on("mouseover", function(d) {      
 		ttip.transition()        
 			.duration(200)      

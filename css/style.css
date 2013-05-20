@@ -312,10 +312,16 @@ rect {
 
 /* positive / negative tweet chart */
 .axis path,
-.axis line {
+.axis line
+{
   fill: none;
   stroke: #000;
+  pointer-events: none;
   shape-rendering: crispEdges;
+}
+
+.axis text {
+  pointer-events: none;
 }
 
 .posarea,
