@@ -13,8 +13,8 @@ d3.json("data/twitter/hourly_sums.json", function(data) {
 		.enter()
 		.append("div")
 		.style("background-color", function(d) { return (d.key == "pos") ? "cornflowerblue" : "#ff4e4e"; })	
-		.style("width", 25)
-		//.style("vertical-align", "middle")
+		.style("width", 50)
+		.text(function(d) { return Number((100/total) * d.value).toFixed(0) + "%"; })
 		.style("height", function(d) {
 			return (500/total) * d.value + "px";
 		});

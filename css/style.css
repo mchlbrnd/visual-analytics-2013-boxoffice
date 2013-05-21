@@ -398,9 +398,11 @@ div.tooltip {
 }
 
 #posnegtweetbarvis {
+	text-align: center;
+	font-size: 12pt;
 	margin-top: 45px; 
 	float: left;
 	margin-left: 25px;
-	width: 25px;
+	width: 40px;
 	height: 500px;
 }
