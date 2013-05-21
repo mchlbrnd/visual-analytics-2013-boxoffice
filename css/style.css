@@ -376,7 +376,7 @@ div.tooltip {
 #help-window {
 	background-image: linear-gradient(left , rgb(255,255,255) 0%, rgb(235,235,235) 25%, rgb(235,235,235) 70%, rgb(255,255,255) 100%);
 	background-image: -o-linear-gradient(left , rgb(255,255,255) 0%, rgb(235,235,235) 25%, rgb(235,235,235) 70%, rgb(255,255,255) 100%);
-	background-image: -moz-linear-gradient(left , rgb(255,255,255) 0%, rgb(235,235,235) 25%, rgb(235,235,235) 70%, rgb(255,255,255) 100%);
+	background-image: -moz-linear-gradient(left , rgb(255,255,255) 0%, rgb(235,235,235) 35%, rgb(205,235,205) 50%, rgb(235,235,235) 63%, rgb(255,255,255) 100%);
 	background-image: -webkit-linear-gradient(left , rgb(255,255,255) 0%, rgb(235,235,235) 25%, rgb(235,235,235) 70%, rgb(255,255,255) 100%);
 	background-image: -ms-linear-gradient(left , rgb(255,255,255) 0%, rgb(235,235,235) 25%, rgb(235,235,235) 70%, rgb(255,255,255) 100%);
 
@@ -401,12 +401,16 @@ div.tooltip {
 	margin-top: 20px;
 }
 
+#casttreemapvislegend rect {
+	pointer-events: none;
+}
+
 #posnegtweetbarvis {
 	text-align: center;
 	font-size: 10pt;
 	margin-top: 45px; 
-	float: left;
-	margin-left: 25px;
+	float: right;
+	padding-right: 25px;
 	width: 30px;
 	height: 500px;
 }

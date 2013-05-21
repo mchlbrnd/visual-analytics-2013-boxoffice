@@ -1,10 +1,10 @@
 // create treemap legend
-var svg = d3.select("#casttreemapvislegend")
+var leg_svg = d3.select("#casttreemapvislegend")
 		.append("svg:svg")
 		.attr("width", 100)
 		.attr("height", 10);
 
-var gradient = svg.append("svg:defs")
+var gradient = leg_svg.append("svg:defs")
   .append("svg:linearGradient")
 	.attr("id", "gradient")
 	.attr("r0", "0%")
@@ -27,7 +27,7 @@ gradient.append("svg:stop")
 	.attr("stop-color", "cornflowerblue")
 	.attr("stop-opacity", 1);
 
-svg.append("svg:rect")
+leg_svg.append("svg:rect")
 	.attr("width", 100)
 	.attr("height", 10)
 	.style("fill", "url(#gradient)");
