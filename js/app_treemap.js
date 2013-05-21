@@ -1,3 +1,39 @@
+// create treemap legend
+var svg = d3.select("#casttreemapvislegend")
+		.append("svg:svg")
+		.attr("width", 100)
+		.attr("height", 10);
+
+var gradient = svg.append("svg:defs")
+  .append("svg:linearGradient")
+	.attr("id", "gradient")
+	.attr("r0", "0%")
+	.attr("r5", "50%")
+	.attr("r10", "100%")
+	.attr("spreadMethod", "pad");
+
+gradient.append("svg:stop")
+	.attr("offset", "0%")
+	.attr("stop-color", "#ff4e4e")
+	.attr("stop-opacity", 1);
+
+gradient.append("svg:stop")
+	.attr("offset", "50%")
+	.attr("stop-color", "#ffffff")
+	.attr("stop-opacity", 1);
+
+gradient.append("svg:stop")
+	.attr("offset", "100%")
+	.attr("stop-color", "cornflowerblue")
+	.attr("stop-opacity", 1);
+
+svg.append("svg:rect")
+	.attr("width", 100)
+	.attr("height", 10)
+	.style("fill", "url(#gradient)");
+
+
+// create treemap
 var chartWidth = 1100 - 80;
 var chartHeight = 800 - 180;
 var xscale = d3.scale.linear().range([0, chartWidth]);
@@ -21,7 +57,7 @@ var treemap = d3.layout.treemap()
 			return d.ow_recode;
 		});
 
-var chart = d3.select("#actortreemapvis")
+var chart = d3.select("#casttreemapvis")
 		.append("svg:svg")
 		.attr("width", chartWidth)
 		.attr("height", chartHeight)
@@ -39,6 +75,7 @@ d3.json("data/imdb/Texas Chainsaw 3D (2013).json", function(data) {
 		return d.children;
 	});
 	
+	// output totals to text
 	d3.select(".help-wrapper")
 		.append("p")
 		.text(function(d) {

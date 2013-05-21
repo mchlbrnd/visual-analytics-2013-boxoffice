@@ -391,10 +391,16 @@ div.tooltip {
 	);
 }
 
-#actortreemapvis {
+#casttreemapvis {
 	width: 1100px; 
 	height: 620px;
 	margin-left: 25px;
+}
+
+#casttreemapvislegend {
+	font-size: 10pt;
+	margin-left: 25px;
+	margin-top: 20px;
 }
 
 #posnegtweetbarvis {
