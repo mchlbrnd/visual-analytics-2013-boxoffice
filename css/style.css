@@ -202,7 +202,7 @@ h2 {
 }
 
 .help-wrapper {
-  width: 1200px ;
+  width: 1024px ;
   margin-left: auto ;
   margin-right: auto ;
 }
@@ -392,23 +392,21 @@ div.tooltip {
 }
 
 #casttreemapvis {
-	width: 1100px; 
-	height: 620px;
 	margin-left: 25px;
 }
 
 #casttreemapvislegend {
-	font-size: 10pt;
+	font-size: 8pt;
 	margin-left: 25px;
 	margin-top: 20px;
 }
 
 #posnegtweetbarvis {
 	text-align: center;
-	font-size: 12pt;
+	font-size: 10pt;
 	margin-top: 45px; 
 	float: left;
 	margin-left: 25px;
-	width: 40px;
+	width: 30px;
 	height: 500px;
 }

@@ -34,7 +34,7 @@ svg.append("svg:rect")
 
 
 // create treemap
-var chartWidth = 1100 - 80;
+var chartWidth = 1024 - 80;
 var chartHeight = 800 - 180;
 var xscale = d3.scale.linear().range([0, chartWidth]);
 var yscale = d3.scale.linear().range([0, chartHeight]);
