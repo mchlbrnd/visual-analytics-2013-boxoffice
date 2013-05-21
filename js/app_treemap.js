@@ -1,10 +1,11 @@
-var chartWidth = 1280 - 80;
+var chartWidth = 1100 - 80;
 var chartHeight = 800 - 180;
 var xscale = d3.scale.linear().range([0, chartWidth]);
 var yscale = d3.scale.linear().range([0, chartHeight]);
 var color = d3.scale.linear()
 	.domain([0, 5, 10])
-	.range(["red", "white", "blue"]);
+	.range(["#ff4e4e", "white", "cornflowerblue"]);
+
 var headerHeight = 20;
 var headerColor = "#555555";
 var transitionDuration = 500;
